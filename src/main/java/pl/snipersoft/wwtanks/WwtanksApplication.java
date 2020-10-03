@@ -8,7 +8,7 @@ public class WwtanksApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WwtanksApplication.class, args);
-		Database.initDatabase();
+//		Database.initDatabase();
 	}
 
 }
