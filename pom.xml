@@ -141,6 +141,7 @@
                         <password>admin</password>
                     </jdbc>
                     <generator>
+                        <name>org.jooq.codegen.ScalaGenerator</name>
                         <database>
                             <name>org.jooq.meta.postgres.PostgresDatabase</name>
                             <includes>.*</includes>
