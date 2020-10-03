@@ -66,3 +66,6 @@ gradle-app.setting
 .mvn
 mvnw
 mvnw.cmd
+
+# JOOQ
+src/main/java/pl/snipersoft/wwtanks/jooq
