@@ -69,3 +69,16 @@ mvnw.cmd
 
 # JOOQ
 src/main/java/pl/snipersoft/wwtanks/jooq
+
+# Vaadin
+bower_components
+node
+node_modules
+/frontend
+*/flow-*/frontend
+**/webpack.generated.js
+flow-tests/**/package.json
+flow-tests/**/webpack*.js
+flow-tests/**/tsconfig.json
+flow-tests/**/pnpm-lock.yaml
+yarn.lock
